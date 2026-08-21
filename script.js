@@ -6,7 +6,7 @@
    CONFIGURATION — change these if your FastAPI setup differs
    ============================================================ */
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://mental-health-score-36o7.onrender.com";
 const PREDICT_ENDPOINT = `${API_URL}/predict`;
 
 // NOTE ON CORS:
